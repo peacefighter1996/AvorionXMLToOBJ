@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AvorionXMLToSTL": {
+      "commandName": "Project",
+      "commandLineArgs": ".\\TestDocuments\\angle1.xml .\\TestDocuments\\testResult.obj"
+    }
+  }
+}
